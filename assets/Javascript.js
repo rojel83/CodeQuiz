@@ -159,7 +159,7 @@ $(document).ready(function() {
     }
 
     function timerDown() {
-        secondsLeft = secondsLeft -= 20;
+        secondsLeft = secondsLeft -= 15;
 
     }
 
