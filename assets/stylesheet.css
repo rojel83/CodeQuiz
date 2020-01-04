@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.container {
+    width: 600px;
+    border: 20px double rgb(150, 3, 3);
+    margin-top: 30px;
+}
+
+#timer {
+    background-color: #555555;
+    color: #ffffff;
+    padding: 6px;
+}
+
+#highScores {
+    background-color: #555555;
+    color: #ffffff;
+}
+
+#start {
+    background-color: green;
+}
