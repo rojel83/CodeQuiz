@@ -14,8 +14,8 @@ score and initials are then stored in localStorage.
 
 Build with;
 
-*HTML file
-*CSS file
-*JS file
-*Bootstrap
-*JQuery
+* HTML file
+* CSS file
+* JS file
+* Bootstrap
+* JQuery
